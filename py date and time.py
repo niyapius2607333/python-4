@@ -1,3 +1,9 @@
+'''
+Author : Niya Pius
+Date : 08-10-2024
+Python program to format date and time
+Version 1.0
+'''
 from datetime import datetime
 print(datetime.now())
 current_time =datetime.now()
