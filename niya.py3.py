@@ -1,3 +1,4 @@
+
 purchase_amount=int(input("Enter the purchase amount:"))
 if purchase_amount>500:
     discount=purchase_amount*0.20
