@@ -1,4 +1,9 @@
-
+'''
+Author : Niya Pius
+Date : 15-10-2024
+Python program to find purchase amount
+Version 1.0
+'''
 purchase_amount=int(input("Enter the purchase amount:"))
 if purchase_amount>500:
     discount=purchase_amount*0.20
