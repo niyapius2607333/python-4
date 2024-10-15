@@ -1,3 +1,9 @@
+'''
+Author : Niya Pius
+Date : 15-10-2024
+Python program to find smallest of three numbers
+Version 1.0
+'''
 a=int(input("Enter a number:"))
 b=int(input("Enter a number:"))
 c=int(input("Enter a number:"))
