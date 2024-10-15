@@ -1,3 +1,9 @@
+'''
+Author : Niya Pius
+Date : 15-10-2024
+Python program to use loop toprint odd numbers
+Version 1.0
+'''
 limit=int(input("Enter the limit:"))
 odd_number=1
 count=0
