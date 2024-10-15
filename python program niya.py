@@ -1,6 +1,6 @@
 '''
 Author : Niya Pius
-Date : -10-2024
+Date : 15-10-2024
 Python program to find a number is positive or not
 Version 1.0
 '''
